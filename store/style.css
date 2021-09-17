@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap");
+
+* {
+	font-family: 'Ubuntu', 'sans-serif;';
+}
+.card {
+	transition: transform 0.3s;
+}
+.card:hover {
+	transform: translateY(-15px);
+	transition: transform 0.3s;
+}
+.btn {
+	cursor: hand;
+}
+.btn:hover {
+	opacity: 0.8;
+}

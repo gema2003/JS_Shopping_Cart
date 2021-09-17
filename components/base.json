@@ -1,0 +1,50 @@
+[
+	{
+		"id" : "001",
+		"codigo" : "BRK02005",
+		"name" : "Minivestido Sexy Rojo",
+		"medida" : "S / M / L",
+		"price" : "200",
+		"url" : "./assets/images/Minivestido_Sexy.jpg"
+	},
+	{
+		"id" : "002",
+		"codigo" : "BRK02006",
+		"name" : "Minivestido Piel Rosa",
+		"medida" : "S / M / L",
+		"price" : "150",
+		"url" : "./assets/images/Minivestido_Sexy_Piel.jpg"
+	},
+	{
+		"id" : "003",
+		"codigo" : "BRK02032",
+		"name" : "Leggins Colores Varios",
+		"medida" : "Talla Unica",
+		"price" : "75",
+		"url" : "./assets/images/Leggins.jpg"
+	},
+	{
+		"id" : "004",
+		"codigo" : "BRK02020",
+		"name" : "Jeans Cremallera Atrás",
+		"medida" : "S / M / L",
+		"price" : "125",
+		"url" : "./assets/images/Jeans.jpg"
+	},
+	{
+		"id" : "005",
+		"codigo" : "BRK07007",
+		"name" : "Micro Tanga de China",
+		"medida" : "Talla Unica",
+		"price" : "40",
+		"url" : "./assets/images/Mini_Tanga.jpeg"
+	},
+	{
+		"id" : "006",
+		"codigo" : "BRK07080",
+		"name" : "Minifalda De Cuero",
+		"medida" : "Talla Unica",
+		"price" : "175",
+		"url" : "./assets/images/Minifalda_Cuero.jpg"
+	}
+]
